@@ -1,0 +1,165 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3b3b3b;
+    background-color: #F5F5F5;
+
+}
+
+.payment{
+    position: absolute;
+    left: 400px;
+    background-color: white;
+    border-radius: 5px;
+    width: 668px;
+    box-shadow: 1px 0px 18px rgb(0 0 0);
+}
+
+.paymentBody{
+    width: auto;
+    height: 724px;
+    padding: 27px;
+}
+
+.paymentContacts{
+    position: absolute;
+    top: 42px;
+    font-size: 22px;
+}
+
+
+/* form */
+
+.paymentInputs{
+
+}
+
+.paymentNameT{
+    position: absolute;
+    top: 100px;
+    width: 85%;
+    height: 5%;
+    padding: 4px;
+    font-size: 18px;
+}
+.paymentFirstNameT{
+    position: absolute;
+    top: 170px;
+    width: 85%;
+    height: 5%;
+    padding: 4px;
+    font-size: 18px;
+}
+
+.paymentEmailT{
+    position: absolute;
+    top: 240px;
+    width: 85%;
+    height: 5%;
+    padding: 4px;
+    font-size: 18px;
+}
+
+.paymentTelT{
+    position: absolute;
+    top: 310px;
+    width: 85%;
+    height: 5%;
+    padding: 4px;
+    font-size: 18px;
+}
+
+
+/* form */
+
+/* buttons */
+
+.paymentElse{
+    background: none;
+    font-size: 18px;
+    height: 6%;
+    width: 243px;
+    position: absolute;
+    top: 391px;
+    text-align: left;
+    border: none;
+}
+.paymentSelected{
+    background: none;
+    font-size: 18px;
+    height: 6%;
+    width: 243px;
+    position: absolute;
+    top: 550px;
+    text-align: left;
+    border: none;
+}
+
+.paymentLis{
+    font-size: 20px;
+    height: 43px;
+    position: absolute;
+    top: 720px;
+    left: 290px;
+    background: #00B366;
+    color: white;
+    border: none;
+    width: 151px;
+    border-radius: 5px;
+}
+
+/* buttons */
+
+.paymentLists{
+    position: absolute;
+    top: 439px;
+    left: 47px;
+}
+.paymentRadio{
+    font-size: 520px;
+    color: red;
+}
+
+#n1{position: absolute;left: 33px;width: 280px; top: 0;}
+#n2{position: absolute;left: 33px;width: 280px; top: 20px;}
+#n3{position: absolute;left: 33px;width: 280px; top: 40px;}
+#n4{position: absolute;left: 33px;width: 280px; top: 60px;}
+
+#pay2{
+    position: absolute;
+    top: 605px;
+}
+
+.sendAllUKR{
+    position: absolute;
+    right: -131px;
+    display: none;
+    background: white;
+    width: 424px;
+    height: 260px;
+    z-index: 9;
+    left: -18px;
+    top: -11px;
+}
+
+.derectiv{
+    position: absolute;
+    top: 41px;
+}
+
+.text{
+    top: 79px;
+    width: 416px;
+    height: 42px;
+    font-size: 16px;
+    position: absolute;
+    padding: 0 0 47px 0;
+    margin: 0;
+}
+
+
+#colseBtn{
+    position: absolute;
+    left: 356px;
+}
